@@ -12,7 +12,7 @@ bright pale ice (`#F2F8FC`) for maximum contrast against both the dark window
 surface and the misty wallpapers; inactive window borders sit at a mid-steel
 blue (`#64809A`) so focus state is always unambiguous.
 
-Icon theme: Yaru-sage-dark
+Icon theme: Yaru-blue-dark
 
 ## Files
 
@@ -20,7 +20,7 @@ Icon theme: Yaru-sage-dark
 |------|---------|
 | `colors.toml` | Palette; drives Hyprland, shell, terminals, and every themed app |
 | `backgrounds/` | The two source photographs (`01-boat.jpg`, `02-mist.jpg`) |
-| `icons.theme` | Yaru-sage-dark icon set |
+| `icons.theme` | Yaru-blue-dark icon set |
 | `preview.png` | Theme-picker image: a real screenshot of a themed desktop |
 | `preview-unlock.png` / `unlock.png` | Lock-screen images derived from the photos |
 
