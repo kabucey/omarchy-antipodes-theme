@@ -1,6 +1,6 @@
 # Antipodes
 
-A custom dark Omarchy theme (formerly *Tarn*), built around two personal
+A custom dark Omarchy theme, built around two personal
 photographs:
 
 - **Boat** — a dark hull under dusk water, slate and ice-blue
