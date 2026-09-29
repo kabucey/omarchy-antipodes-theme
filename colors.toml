@@ -1,0 +1,50 @@
+# Tarn — an alpine-haze palette.
+#
+# Built from three photographs: charcoal-moor shadow with steel and bronze,
+# olive meadow under pale haze, and ice-blue water over dark slate.
+# Deep slate surfaces, glacier-blue accent, sage and sand neutrals.
+#
+# Hyprland window borders and the shell's menus/tooltips use pale glacial
+# ice on purpose — maximum contrast against both the dark windows and the
+# wallpaper. Inactive borders sit mid-steel so focus state is unmistakable.
+
+mode = "dark"
+
+accent = "#7CAECF"
+selection = "#2E475C"
+muted = "#5A7183"
+
+background = "#10171E"
+dark_background = "#0C1116"
+darker_background = "#06090C"
+lighter_background = "#1B252E"
+
+foreground = "#CFDCE4"
+dark_foreground = "#3D5468"
+light_foreground = "#A4B8C4"
+bright_foreground = "#DDEBF4"
+
+red = "#D97F6F"
+yellow = "#D3C795"
+orange = "#C08B5C"
+green = "#9FB37E"
+cyan = "#7FB5AE"
+blue = "#86B4D8"
+magenta = "#B58CA6"
+brown = "#8A7660"
+
+bright_red = "#E6998B"
+bright_yellow = "#E0D6AE"
+bright_green = "#B5C698"
+bright_cyan = "#97C6C0"
+bright_blue = "#9FC5E3"
+bright_magenta = "#CBA6BB"
+
+cursor = "#DDEBF4"
+selection_foreground = "#DDEBF4"
+selection_background = "#2E475C"
+
+# High-contrast border tokens (override the `accent` fallback in the
+# hyprland.lua and shell.toml templates).
+hyprland_active_border = "#F2F8FC"
+hyprland_inactive_border = "#64809A"

@@ -1,0 +1,37 @@
+# Antipodes
+
+A custom dark Omarchy theme (formerly *Tarn*), built around two personal
+photographs:
+
+- **Boat** — a dark hull under dusk water, slate and ice-blue
+- **Mist** — olive meadow under a pale, hazy sky
+
+The palette takes its deep slate surfaces, glacier-blue accent, and sage/sand
+neutrals from those images. Active window borders, tooltips, and menus use a
+bright pale ice (`#F2F8FC`) for maximum contrast against both the dark window
+surface and the misty wallpapers; inactive window borders sit at a mid-steel
+blue (`#64809A`) so focus state is always unambiguous.
+
+Icon theme: Yaru-sage-dark
+
+## Files
+
+| File | Purpose |
+|------|---------|
+| `colors.toml` | Palette; drives Hyprland, shell, terminals, and every themed app |
+| `backgrounds/` | The two source photographs (`01-boat.jpg`, `02-mist.jpg`) |
+| `icons.theme` | Yaru-sage-dark icon set |
+| `preview.png` | Theme-picker image: a real screenshot of a themed desktop |
+| `preview-unlock.png` / `unlock.png` | Lock-screen images derived from the photos |
+
+## Install
+
+Via Omarchy:
+
+```bash
+omarchy theme install git@github.com:kabucey/omarchy-antipodes-theme.git
+omarchy theme set Antipodes
+```
+
+…or clone into `~/.config/omarchy/themes/antipodes` and run
+`omarchy theme set Antipodes`.
