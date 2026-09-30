@@ -1,10 +1,11 @@
 # Antipodes
 
-A custom dark Omarchy theme, built around two personal
+A custom dark Omarchy theme, built around three personal
 photographs:
 
 - **Boat** — a dark hull under dusk water, slate and ice-blue
 - **Mist** — olive meadow under a pale, hazy sky
+- **Coast** — a rocky shoreline meeting a calm sea under a clear blue sky
 
 The palette takes its deep slate surfaces, glacier-blue accent, and sage/sand
 neutrals from those images. Active window borders, tooltips, and menus use a
@@ -19,7 +20,7 @@ Icon theme: Yaru-blue-dark
 | File | Purpose |
 |------|---------|
 | `colors.toml` | Palette; drives Hyprland, shell, terminals, and every themed app |
-| `backgrounds/` | The two source photographs (`01-boat.jpg`, `02-mist.jpg`) |
+| `backgrounds/` | The three source photographs (`01-boat.jpg`, `02-mist.jpg`, `03-coast.jpg`) |
 | `icons.theme` | Yaru-blue-dark icon set |
 | `preview.png` | Theme-picker image: a real screenshot of a themed desktop |
 | `preview-unlock.png` / `unlock.png` | Lock-screen images derived from the photos |
